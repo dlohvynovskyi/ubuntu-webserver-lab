@@ -22,6 +22,13 @@ I created a Linux server using Ubuntu in a virtual environment (VirtualBox) and 
 - UFW Firewall
 - VirtualBox
 
+## Features
+- Linux Server (Ubuntu)
+- Apache2 Web Server
+- SSH Remote Access
+- Firewall (UFW)
+- Öffentlicher Zugriff über ngrok (Testzwecke)
+
 ## Result
 The server is accessible via browser and SSH. The website is successfully hosted locally.
 

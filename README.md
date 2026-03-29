@@ -1,7 +1,9 @@
-# Linux Server Project
+# Linux Webserver Projekt (Ubuntu + Apache)
+
+Ziel: Einstieg in die IT-Branche im Bereich Systemintegration.
 
 ## Description
-I created a Linux server using Ubuntu in a virtual environment (VirtualBox) and configured it for web hosting and remote access.
+In diesem Projekt habe ich einen Linux-Server (Ubuntu) in einer virtuellen Umgebung (VirtualBox) eingerichtet und für Webhosting sowie Remote-Zugriff konfiguriert.
 
 ## What I did
 - Installed Ubuntu Server in VirtualBox
@@ -10,7 +12,6 @@ I created a Linux server using Ubuntu in a virtual environment (VirtualBox) and 
 - Created a simple HTML website
 - Set up network (NAT + Host-Only Adapter)
 - Configured firewall using UFW (allowed SSH and HTTP)
-- Checked and analyzed server logs
   
 ## Network Configuration
 - NAT adapter for internet access (apt updates, packege installation)
@@ -30,7 +31,7 @@ I created a Linux server using Ubuntu in a virtual environment (VirtualBox) and 
 - Öffentlicher Zugriff über ngrok (Testzwecke)
 
 ## Result
-The server is accessible via browser and SSH. The website is successfully hosted locally.
+Der Server ist über den Browser und SSH erreichbar. Die Website wird lokal erfolgreich bereitgestellt.
 
 ## Screenshoots
 ### Website

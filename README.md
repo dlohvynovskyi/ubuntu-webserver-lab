@@ -25,9 +25,6 @@ I created a Linux server using Ubuntu in a virtual environment (VirtualBox) and 
 ## Result
 The server is accessible via browser and SSH. The website is successfully hosted locally.
 
-## Author
-Denys
-
 ## Screenshoots
 ### Website
 <img width="1919" height="983" alt="image" src="https://github.com/user-attachments/assets/5d642a8d-0f7d-46d5-8f05-e8c805468b72" />
@@ -44,7 +41,8 @@ Denys
 ### SSH Connection
 <img width="1346" height="629" alt="image" src="https://github.com/user-attachments/assets/dddbbd70-fb62-4290-b5ed-ea848761504a" />
 
-
+## Author
+Denys Lohvynovskyi
 
 
 

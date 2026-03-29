@@ -1,37 +1,37 @@
 # Linux Webserver Projekt (Ubuntu + Apache)
 
-Ziel: Einstieg in die IT-Branche im Bereich Systemintegration.
+**Ziel:** Einstieg in die IT-Branche im Bereich Systemintegration
 
-## Description
+## Beschreibung
 In diesem Projekt habe ich einen Linux-Server (Ubuntu) in einer virtuellen Umgebung (VirtualBox) eingerichtet und für Webhosting sowie Remote-Zugriff konfiguriert.
 
-## What I did
-- Installed Ubuntu Server in VirtualBox
-- Configured SSH for remote access
-- Installed and configured Apache2 web server
-- Created a simple HTML website
-- Set up network (NAT + Host-Only Adapter)
-- Configured firewall using UFW (allowed SSH and HTTP)
-  
-## Network Configuration
-- NAT adapter for internet access (apt updates, packege installation)
-- Host-Only adapter for local acces from host machine (192.168.56.x)
+## Umgesetzte Schritte
+- Installation von Ubuntu Server in VirtualBox  
+- Einrichtung von SSH für den Remote-Zugriff  
+- Installation und Konfiguration des Apache2 Webservers  
+- Erstellung einer einfachen HTML-Website  
+- Einrichtung des Netzwerks (NAT + Host-Only Adapter)  
+- Konfiguration der Firewall mit UFW (Freigabe von SSH und HTTP)
 
-## Technologies
-- Ubuntu Server
-- Apache2
-- UFW Firewall
-- VirtualBox
+## Netzwerkkonfiguration
+- NAT-Adapter für Internetzugang (Updates, Paketinstallation)  
+- Host-Only-Adapter für lokalen Zugriff vom Host-System (192.168.56.x)
+
+## Technologien
+- Ubuntu Server  
+- Apache2  
+- UFW Firewall  
+- VirtualBox  
 
 ## Features
-- Linux Server (Ubuntu)
-- Apache2 Web Server
-- SSH Remote Access
-- Firewall (UFW)
-- Öffentlicher Zugriff über ngrok (Testzwecke)
+- Linux Server (Ubuntu)  
+- Apache2 Webserver  
+- SSH Remote-Zugriff  
+- Firewall (UFW)  
+- Öffentlicher Zugriff über ngrok (Testzwecke)  
 
-## Result
-Der Server ist über den Browser und SSH erreichbar. Die Website wird lokal erfolgreich bereitgestellt.
+## Ergebnis
+Der Server ist über den Browser sowie per SSH erreichbar. Die Website wird erfolgreich lokal bereitgestellt.
 
 ## Screenshoots
 ### Website

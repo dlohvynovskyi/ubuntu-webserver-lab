@@ -48,6 +48,10 @@ The server is accessible via browser and SSH. The website is successfully hosted
 ### SSH Connection
 <img width="1346" height="629" alt="image" src="https://github.com/user-attachments/assets/dddbbd70-fb62-4290-b5ed-ea848761504a" />
 
+### Ngrok
+<img width="1112" height="611" alt="image" src="https://github.com/user-attachments/assets/c25484c9-2572-4efb-92dd-69fb6806d3cf" />
+
+
 ## Author
 Denys Lohvynovskyi
 

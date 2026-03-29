@@ -51,6 +51,7 @@ Der Server ist über den Browser sowie per SSH erreichbar. Die Website wird erfo
 
 ### Ngrok
 <img width="1112" height="611" alt="image" src="https://github.com/user-attachments/assets/c25484c9-2572-4efb-92dd-69fb6806d3cf" />
+<img width="1919" height="985" alt="image" src="https://github.com/user-attachments/assets/3dcc3c69-1b9d-469d-ac54-89469dae1104" />
 
 
 ## Author
